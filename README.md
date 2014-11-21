@@ -1,12 +1,15 @@
 # Enhancements
 
-**About**
+__About__
+
 This is a new repo for any and all unreviewed or unapproved issues regarding enhancements, features, or ideas for iFit.
 
-**Who is this for?**
+__Who is this for?__
+
 Everyone. Anyone can create issues here (no duplicates please) and everyone can browse through the previously created issues and +1 the ones you feel should be prioritized.
 
-**Definitoin of Labels**
+__Definitoin of Labels__
+
 Labels will be generally interpreted to mean:
 * Blocked: waiting on a related issue to be considered or implemented
 * Bug: issues that might also be considered bugs
