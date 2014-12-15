@@ -2,7 +2,7 @@
 
 __About__
 
-This is a new repo for any and all unapproved or postponed issues regarding enhancements, features, or ideas for iFit. Any issues that should be considered by design, copy, marketing, or management should be written here instead of in the ifit/ifit repo. Issues to be addressed in future updates or releases can be stored here and voted on.
+This is a new repo for any and all unapproved or postponed issues regarding enhancements, features, or ideas. Any issues that should be considered by design, copy, marketing, or management should be written here instead of in the ifit/ifit repo. Issues to be addressed in future updates or releases can be stored here and voted on.
 
 __Who is this for?__
 
