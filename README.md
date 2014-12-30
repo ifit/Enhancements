@@ -16,7 +16,7 @@ This is a new repo for any and all unapproved or postponed issues regarding enha
 
 __Who is this for?__
 
-Everyone. Anyone can create issues here (no duplicates please) and everyone can browse through previously created issues, add notes, and +1 :+1: the ones you feel should be prioritized.
+Everyone. Anyone can create issues here (no duplicates please) and everyone can browse through previously created issues, add notes, and +1 :+1: any you feel should be prioritized.
 
 __Definition of Labels__
 
