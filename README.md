@@ -1,15 +1,14 @@
 # Enhancements
 
 __Instructions__
-
-Go to Boards (press b)
-Read through the issues in the backlog
-If an issue--
-Is irrelevant or rejected: close it
-Is approved: move it to the Approved pipeline
-Needs consideration by another department: tag them (e.g. @cwatt7), label & move it to the Under Review pipeline
-Will be addressed in the future: add relevant notes and move it to the Postponed/Blocked pipeline
-Is a pipe-dream: move it to the Someday pipeline
+* Go to Boards (press b)
+* Read through the issues in the backlog
+* If an issue--
+  * Is irrelevant or rejected: close it
+  * Is approved: move it to the Approved pipeline
+  * Needs consideration by another department: tag them (e.g. @cwatt7), label & move it to the Under Review pipeline
+  * Will be addressed in the future: add relevant notes and move it to the Postponed/Blocked pipeline
+  * Is a pipe-dream: move it to the Someday pipeline
 
 __About__
 
