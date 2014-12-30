@@ -1,4 +1,13 @@
 # Enhancements
+__Instructions__
+Go to Boards (press b)
+Read through the issues in the backlog
+If an issue--
+Is irrelevant or rejected: close it
+Is approved: move it to the Approved pipeline
+Needs consideration by another department: tag them (e.g. @cwatt7), label & move it to the Under Review pipeline
+Will be addressed in the future: add relevant notes and move it to the Postponed/Blocked pipeline
+Is a pipe-dream: move it to the Someday pipeline
 
 __About__
 
@@ -8,7 +17,7 @@ __Who is this for?__
 
 Everyone. Anyone can create issues here (no duplicates please) and everyone can browse through the previously created issues and +1 the ones you feel should be prioritized.
 
-__Definitoin of Labels__
+__Definition of Labels__
 
 Labels will be generally interpreted to mean:
 * Blocked: waiting on a related issue to be considered or implemented
