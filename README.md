@@ -17,7 +17,7 @@ This is a new repo for any and all unapproved or postponed issues regarding enha
 
 __Who is this for?__
 
-Everyone. Anyone can create issues here (no duplicates please) and everyone can browse through the previously created issues and +1 the ones you feel should be prioritized.
+Everyone. Anyone can create issues here (no duplicates please) and everyone can browse through previously created issues, add notes, and +1 the ones you feel should be prioritized.
 
 __Definition of Labels__
 
@@ -29,5 +29,6 @@ Labels will be generally interpreted to mean:
 * Dev Question: where the opinion of a dev about the feasibility of a change would be helpful
 * Enhancement: a change to make something function/look as designed/intended
 * Feature: a change/addition not yet designed
+* Marketing: requires input from Marketing
 * Mobile: anything that involves the mobile apps, fitness bands, or smartwatch
 * Needs Verification: issues that need further investigation or testing
