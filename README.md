@@ -5,10 +5,10 @@ __Instructions__
 * Read through the issues in the backlog
 * If an issue--
   * Is irrelevant or rejected: close it
-  * Is approved: add notes & move it to the Approved pipeline
-  * Requires additional input: tag them (e.g. @cwatt7), add notes & move it to the Under Review pipeline
-  * Will be addressed in the future: add relevant notes & move it to the Postponed/Blocked pipeline
-  * Is a pipe-dream: move it to the Someday pipeline
+  * Is approved: add notes & move to the Approved pipeline
+  * Requires more input: tag someone (e.g. @cwatt7), add notes, & move to the Under Review pipeline
+  * Will be addressed in the future: add relevant notes & move to the Postponed/Blocked pipeline
+  * Is a pipe-dream: move to the Someday pipeline
 
 __About__
 
