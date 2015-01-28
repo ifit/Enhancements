@@ -8,7 +8,7 @@ __Instructions__
   * Is approved: add notes & move to the Approved pipeline
   * Requires more input: tag someone (e.g. @cwatt7), add notes, & move to the Under Review pipeline
   * Will be addressed in the future: add relevant notes & move to the Postponed/Blocked pipeline
-  * Is a pipe-dream: move to the Someday pipeline
+  * Is a pipe-dream: move to the Future Ideas pipeline
 
 __About__
 
@@ -16,7 +16,7 @@ This is a new repo for any and all unapproved or postponed issues regarding enha
 
 __Who is this for?__
 
-Everyone. Anyone can create issues here (no duplicates please) and everyone can browse through previously created issues, add notes, and/or +1 :+1: any you feel should be prioritized.
+Everyone. Anyone can create issues here (no duplicates please) and everyone can browse through previously created issues, add notes, and/or +1 :+1: any you feel are relevant.
 
 __Definition of Labels__
 
