@@ -7,8 +7,8 @@ __Instructions__
   * Is irrelevant, useless, implausible, or rejected: close it
   * Is approved: add notes & move to the Approved pipeline
   * Requires more input: tag someone (e.g. @cwatt7), add notes, & move to the Under Review pipeline
-  * Will be addressed in the near future: add relevant notes & move to the Postponed/Blocked pipeline
-  * May be useful for reference someday: move to the Future Ideas pipeline
+  * Will be addressed in the future: add relevant notes & move to the Postponed/Blocked pipeline
+  * Will not be addressed, but may be useful for reference someday: move to the Future Ideas pipeline
 
 __About__
 
